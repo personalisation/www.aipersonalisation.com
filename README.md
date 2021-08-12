@@ -1,6 +1,4 @@
-# [aipersonalisation.com | www](https://www.aipersonalisation.com/)
-
-aipersonalisation.com
+# [aipersonalisation.com](https://www.aipersonalisation.com/)
 
 
 Technologie wspierajace od strony AI w różnych kontekstach:
