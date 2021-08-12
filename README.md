@@ -3,6 +3,15 @@
 
 Technologie wspierajace od strony AI w różnych kontekstach:
 
+### Software Development
+
++ nanoservices
++ nanofrontends 
++ AI
+
+
+### Hardware Development
+
 Telekomunikacja: 
 + private5g
 
@@ -11,6 +20,8 @@ Przemysł
 
 Prawo
 + Society 5.0
+
+
 
 ---
 
