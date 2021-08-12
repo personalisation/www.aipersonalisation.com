@@ -1,6 +1,16 @@
 ## aipersonalisation.com
 
 
+Technologie wspierajace od strony AI w różnych kontekstach:
+
+Telekomunikacja: 
++ private5g
+
+Przemysł
++ Industry 4.0
+
+Prawo
++ Society 5.0
 
 ---
 
