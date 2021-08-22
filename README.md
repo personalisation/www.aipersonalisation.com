@@ -3,6 +3,11 @@
 
 Technologie wspierajace od strony AI w różnych kontekstach:
 
+
+### Człowiek
+
++ [CliftonStrengths Online Talent Assessment - EN - Gallup](https://www.gallup.com/cliftonstrengths/en/home.aspx)
+
 ### Software Development
 
 + nanoservices
