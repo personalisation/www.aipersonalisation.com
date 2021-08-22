@@ -6,6 +6,13 @@ Technologie wspierajace od strony AI w różnych kontekstach:
 
 ### Człowiek
 
+analiza osobowości, cech
+
+Jest kilka modeli, ale 16 personalities dobrze działa, wydaje mi się najbardziej optymalny. Jest też darmowy.
+
+Gdybym chciał płacić za taką usługę to polecam Talent Dynamics. 
+
+
 + [CliftonStrengths Online Talent Assessment - EN - Gallup](https://www.gallup.com/cliftonstrengths/en/home.aspx)
 
 ### Software Development
