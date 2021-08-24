@@ -3,6 +3,9 @@
 
 Technologie wspierajace od strony AI w różnych kontekstach:
 
+    Sztuczna Inteligencja się nie obraża, ale może pokonać człowieka.
+    Siłą człowieka jest miłość, sztucznej inteligencji obojętność.
+
 
 ### Człowiek
 
