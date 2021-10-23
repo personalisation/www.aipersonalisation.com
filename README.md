@@ -1,5 +1,12 @@
 # [aipersonalisation.com](https://www.aipersonalisation.com/)
 
+## Personalizacja UI stron www
+
+webstream.dev to projekt opensource, który w wersji obecnej służy do tworzenia stron www, tzn pozwala określić na jakich zasadach ma być wygenerowana i z jakich klocków, dopiero mając do dyspozycji pokażną ilość modułów będzie możliwe wykorzystanie AI, co mam nadzieje nastapi już za kilka miesięcy, gdyż wizja generowania aplikacji za pomocą modułów to nic nowego ale już personalizacja AI tak.
+
+webstream.dev
+
+## AI
 
 Technologie wspierajace od strony AI w różnych kontekstach:
 
