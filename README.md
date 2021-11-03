@@ -15,11 +15,14 @@ webstream.dev to projekt opensource, który w wersji obecnej służy do tworzeni
 ## Oferta personalizacji tekstu na blogu wordpress
 
 Aby znaleźć docelową grupę klientów, najpierw trzeba ją zdefiniować iokreślić interesujące je tematy oraz sposób komunikacji,
-Z webstream przebiega to automatycznie.
+
++ z webstream przebiega to automatycznie na podstawie zebranych metadanych
 
 Obecnie wygląda to tak, że tekst napisany przez blogera w wordpresie jest oznaczany metadanymi, wyszukiwarka internetowa używa je do indeksowania.
 Użytkownik wchodzi na stronę po znalezieniu wycinku artykułu.
+
 Reszta nie odkrywanego tesktu jest odsłaniania po "scroll"-owaniu ekranu w dół.
+
 
 To co będzie widoczne po scrollowaniu zostanie dopiero pobrane i uzytwkonik będzie wiedział, gdy przeczyta.
 
@@ -66,6 +69,10 @@ Języka czytającego oraz poziomu:
 Jeśli artykuł jest stary i ma być zaktualizowany to można zasugerować aktualizację statystyk, obrazków, tabel
 w kontekście całego artykułu
 
+#### podwyższanie jakości
+
+jeśli strona/ artykuł jest niskiej jakości, z webstream można poprawić nie tylko sam tekst, ale też zaktualziować meta dane w header dotyczące zawartości
+
 
 #### translacja, transkrypcja
 
@@ -88,6 +95,27 @@ lub
     blog.com/nowosci-2011/niebieskie-kotki-jedzą-czarne-kotki#de-de
 
 
+## Zarządzanie zawratością
+
+z uwagi na to, że jeen artykuł może zawierać wiele treści od różnych dystrybutorów, autorów, marktplace
+ważne są płatności oraz prawa dostępu do zmiany treści
+dlatego webstream oferuje taką możliwości, aby współtworzyć treść autromatycznie na podstawie wskazanych kryteriów
+
+Następnie można zbudowac książkę na bazie takiej serii artykułów i wydrukować ją bezpośrednio z ekosystemu webstream.
+
+
+## Odkrywanie kolejnej zawartości treści
+
+ma miejsce na social mediach, tam treśc jest dopasowywana do użytkownika
+mając do dyspozycji historię jego przeglądania.
+
+To co oferuje WebStream dotyczy też:
++ tabelek z paginacją
++ galerii obrazów, grid, slide
++ video z procesowaniem AI
++ audio z AI
+
+Urządzenia do przeglądania mają określone rozmiary
 
 ## AI
 
