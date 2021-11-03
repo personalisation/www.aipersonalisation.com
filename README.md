@@ -26,14 +26,14 @@ Reszta nie odkrywanego tesktu jest odsłaniania po "scroll"-owaniu ekranu w dó�
 
 To co będzie widoczne po scrollowaniu zostanie dopiero pobrane i uzytwkonik będzie wiedział, gdy przeczyta.
 
-To jest moment dlaAU do personalizacji pozostałej zawartości strony.
+To jest moment dla AI do personalizacji pozostałej zawartości strony.
 gdyż meta dane o użytkowniku zostału już zebrane po załadowaniu strony www.
 Więc zamiast ładować reklamy, wystarczy załadować sam tekst artykułu zawierający już spersonalizowaną formę artykułu do czytającego go uzytkownika.
 
 
-## Przykłady korzyści
+## Korzyści
 
-### Monetyzacja zawartości bloga
+### Monetyzacja treści, zawartości bloga
 
 WebStream jest niewidoczny da użytkownika, nie ładuje zawartosci poza artykuem,
 zachowuje formę ale modyfikuje samą treść.
@@ -69,12 +69,15 @@ Języka czytającego oraz poziomu:
 Jeśli artykuł jest stary i ma być zaktualizowany to można zasugerować aktualizację statystyk, obrazków, tabel
 w kontekście całego artykułu
 
-#### podwyższanie jakości
+
+#### podwyższanie jakości zawartości i meta danych zwiększając pozycję w wyszukiwarkach
 
 jeśli strona/ artykuł jest niskiej jakości, z webstream można poprawić nie tylko sam tekst, ale też zaktualziować meta dane w header dotyczące zawartości
 
 
 #### translacja, transkrypcja
+
+dopasowanie lokalizacji użytkonika
 
 Artykuł z każdej części świata może być dystrybuowany w różnych wyszukiwarkach lokalnie,
 Wówczas dana osoba, np z polski widzi tekst po polsku na niemieckiej stronie i tak też jest to zaindeksowane w wyszukiwarce
