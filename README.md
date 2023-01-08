@@ -157,6 +157,11 @@ Przemysł
 Prawo
 + Society 5.0
 
+## Inne rozwiazanie
+
+trend zmierza w kierunku wyparcia w pierwszej kolejności tych sfer budowania interfejsu, gdzie już istnieje automatyczny marketing i już możliwe jest generowanie intefejsu automatycznie na podstawie struktury danych
+
++ https://www.glideapps.com/
 
 
 ---
