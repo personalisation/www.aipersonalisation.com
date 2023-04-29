@@ -1,5 +1,12 @@
 # [aipersonalisation.com](https://www.aipersonalisation.com/)
 
+
+## Ciekawe rozwiąania AI
+
++ [Cutout.Pro - AI Photo Editing - Visual Content Generation Platform, best for image and video design](https://www.cutout.pro/)
+
+
+
 ## Personalizacja UI stron www
 
 webstream.dev to projekt opensource, który w wersji obecnej służy do tworzenia stron www, tzn pozwala określić na jakich zasadach ma być wygenerowana i z jakich klocków, dopiero mając do dyspozycji pokażną ilość modułów będzie możliwe wykorzystanie AI, co mam nadzieje nastapi już za kilka miesięcy, gdyż wizja generowania aplikacji za pomocą modułów to nic nowego ale już personalizacja AI tak.
