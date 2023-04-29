@@ -3,8 +3,27 @@
 
 ## Ciekawe rozwiąania AI
 
++ [AI Magic Tools - Runway - face ](https://app.runwayml.com/video-tools/teams/softreck/ai-tools)
+
++ [Reface - Face swap videos](https://hey.reface.ai/)
+
 + [Cutout.Pro - AI Photo Editing - Visual Content Generation Platform, best for image and video design](https://www.cutout.pro/)
 
+> # AI powered auto  
+> visual design platform
+> 
+> We leverage the power of artificial intelligence and computer vision to deliver a  
+> wide range of products both available for individual use and business application  
+> & workflows to achieve efficiency and creation.
+
+
++ [Tribescaler](https://tribescaler.com/)
+
+> Write better hooks in seconds
+> 
+> # Make Your Tweets Go [Viral](https://app.tribescaler.com/login?type=sign_in)
+> 
+> Get more impressions, grow a better network and earn more money. It’s that simple.
 
 
 ## Personalizacja UI stron www
